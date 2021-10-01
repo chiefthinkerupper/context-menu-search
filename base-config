@@ -1,0 +1,6 @@
+[["-1","Google Search","http://www.google.com/search?q=TESTSEARCH",true],
+["-1","Google Drive","https://drive.google.com/drive/u/0/search?q=%s",true],
+["-1","IP Location Lookup","https://db-ip.com/%s",true],
+["-1","----- Search Specific Below -----"," ",true],
+["-1","Zendesk Ticket","https://{{insert your zendesk domai}}/agent/tickets/%s",true],
+["-1","JIRA","https://{{insert your atlassian domain}}/secure/QuickSearch.jspa?searchString=",true]]
